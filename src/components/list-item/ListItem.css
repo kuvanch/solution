@@ -1,0 +1,16 @@
+.list-item {
+    width: 100%;
+    background-color: rgba(68, 70, 79, 0.5);
+    border-radius: 3px;
+    padding: 10px 15px;
+}
+.list-item__name {
+    font-size: 18px;
+    color: white;
+}
+.list-item__link {
+    display: block;
+    margin-top: 15px;
+    color: #f6a821;
+    text-decoration: none;
+}
